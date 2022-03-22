@@ -1,4 +1,4 @@
-### olha eu sou o Gustavo Matias 😐
+### Olha eu sou o Gustavo Matias 😐
 
 - 💻 Estudo Desenvolvimento Web
 
