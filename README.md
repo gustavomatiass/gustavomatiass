@@ -1,5 +1,6 @@
 ### Olha eu sou o Gustavo Matias 
 
+- Estudante de ads
 - 💻 Estudo Desenvolvimento Web
 
 <div align="center">
