@@ -1,7 +1,7 @@
 ### Olha eu sou o Gustavo Matias 
 
 - 💻 Estudante de analise e desenvolvimento de sistemas 
-- 💻 Estudo Desenvolvimento Web
+b
 
 <div align="center">
   <a href="https://github.com/gustavomatiass">
